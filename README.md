@@ -40,4 +40,6 @@ endmodule
 
 # OUTPUT:
 ![image](https://github.com/SivaShankar33/RIPPLECARRYADDER/assets/125188331/09d8f195-790c-4f60-8125-45ee5d5558a5)
+# RESULT
+  hence we have abserved and simulated ripple_carry_adder using verilog code
 
